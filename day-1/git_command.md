@@ -18,3 +18,8 @@ git push -u origin main
 
 git push => push changes to remote repo
 to use the command, `git push <remote_name> <branch_name>`
+
+<!-- whenever you make changes to your project, follow this process to push to github-->
+`git add .`
+`git commit -m 'your commit message'`
+`git push`
