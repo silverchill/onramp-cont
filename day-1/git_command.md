@@ -23,3 +23,5 @@ to use the command, `git push <remote_name> <branch_name>`
 `git add .`
 `git commit -m 'your commit message'`
 `git push`
+
+to merge new branch into main => `git merge new-branch`
