@@ -25,3 +25,14 @@ to use the command, `git push <remote_name> <branch_name>`
 `git push`
 
 to merge new branch into main => `git merge new-branch`
+<!-- to pull changes from github -->
+`git pull` => pull changes from github(remote server) to local repo
+
+<!-- Branching -->
+## A branch is a new/separate version of the main repository
+`git branch` => show all branches
+
+`git branch <branch_name>` => create a new branch
+
+`git checkout <branch_name>` => switch to a branch
+
