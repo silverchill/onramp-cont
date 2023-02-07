@@ -7,9 +7,12 @@ git status => show status of working directory and staging area
 
 git commit => commit changes to local repo
 
-git remote add origin https://github.com/silverchill/onramp-cont.git
 
-git branch -M main
+<!-- process to create a new repository in github and push your code to it -->
+to point our local repository to github =>
+`git remote add origin https://github.com/silverchill/onramp-cont.git`
+
+initialize our current base branch to main `git branch -M main`
 
 git push -u origin main
 
